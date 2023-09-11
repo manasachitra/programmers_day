@@ -1,6 +1,6 @@
 .ab{height:700px;
 	width:1500px;
-	background-image: url(image1.jpg);
+	background-image: url(images//image1.jpg);
 	background-repeat:no repeat ;
 	background-size: cover;
 	border:1px solid white;}
@@ -160,7 +160,7 @@ p{
 .hg{
 	height:600px;
 	width: 1500px;
-	background-image: url(image41.avif);
+	background-image: url(images//image41.avif);
 	background-repeat:no repeat ;
 	background-size: cover;
 	border:1px solid white;
@@ -306,7 +306,7 @@ p{
 .it{
 	height:700px;
 	width:1500px;
-	background-image: url(tall.avif);
+	background-image: url(images//tall.avif);
 	background-repeat:no repeat ;
 	background-size: cover;
 	border:1px solid white;
@@ -340,7 +340,7 @@ p{
 .oi{
 	height: 200px;
 	width:200px ;
-	background-image: url(leaf.png);
+	background-image: url(images//leaf.png);
 	background-repeat:no repeat ;
 	background-size: cover;
 	float: left;
@@ -349,7 +349,7 @@ p{
 .py{
 	height: 200px;
 	width:200px ;
-	background-image: url(aromaa.png);
+	background-image: url(images//aromaa.png);
 	background-repeat:no repeat ;
 	background-size: cover;
 	margin-left: 50px;
@@ -358,7 +358,7 @@ p{
 .yp{
 	height: 200px;
 	width:200px ;
-	background-image: url(leaves.jpg);
+	background-image: url(images//leaves.jpg);
 	background-repeat:no repeat ;
 	background-size: cover;
 	margin-left: 50px;
@@ -367,7 +367,7 @@ p{
 .io{
 	height: 200px;
 	width:200px ;
-	background-image: url(nat.jpg);
+	background-image: url(images//nat.jpg);
 	background-repeat:no repeat ;
 	background-size: cover;
 	margin-left: 50px;
